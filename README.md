@@ -1,6 +1,6 @@
 # ENTPROG-Personal-Portfolio
 
-A personal portfolio website showcasing my skills, projects, and accomplishments as an Information Systems student.
+A personal portfolio website
 
 ## Live Website
 
